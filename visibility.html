@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Visibility Control</title>
+<script>
+function flipimg()
+{
+dom=document.getElementById("star").style;
+if(dom.visibility=="visible")
+dom.visibility="hidden";
+else
+dom.visibility="visible"
+}
+</script>
+</head>
+<body>
+    <p> I am NayanaTara 1185</p>
+<form>
+<div id="star" style="position:relative;visibility:visible;">
+<img src="star.jpg" alt="please wait..." />
+</div>
+<input type="button" value="Toggle Star" onclick="flipimg()" />
+</form>
+</body>
+</html>
