@@ -1,4 +1,4 @@
-# Web Development Concepts Showcase
+# Web Development Concepts 
 
 This project contains a collection of HTML files, each demonstrating different web development concepts. Below is a brief overview of each file:
 
