@@ -1,4 +1,4 @@
-# Few concepts of Web Development 
+# Few concepts of Web development 
 
 This project contains a collection of HTML files, each demonstrating different web development concepts. Below is a brief overview of each file:
 
